@@ -1,3 +1,4 @@
+![2022-03-31_15-49-08](https://user-images.githubusercontent.com/97765679/161148868-d975d972-b71f-4bb7-9ded-a145501433af.png)
 # portfolio-generator
 
 # Task Assignment
