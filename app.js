@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //const fs = require("fs");
 const inquirer = require("inquirer");
 const generatePage = require("./src/page-template");
@@ -147,3 +148,12 @@ promptUser()
     //   console.log('Page created! Check out index.html in this directory to see it!');
     // });
   });
+=======
+const fs = require("fs");
+
+const generatePage = require("./src/page-template.js");
+
+const profileDataArgs = process.argv.slice(2);
+
+const [name, github] = profileDataArgs;
+>>>>>>> ba4a48438f2aaea81cb07fa1740fb77d167ce381
